@@ -1,4 +1,4 @@
-site_title = "MyArxiv"
+site_title = "Myarxivpaper"
 limit_days = 7
 cache_url = "https://xinwutao.github.io/Myarxivpaper/cache.json"
 
